@@ -1,1 +1,1 @@
-Projeto feito em html e css puro
+Projeto feito em HTML5 e CSS3 !
